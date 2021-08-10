@@ -64,3 +64,7 @@ O resultado deve ser:
   }
 ]
 ```
+
+Utilize alguma ferramenta como o RunJS ou [REPL.it](https://replit.com/) para testar seu código e quando tiver certeza que o código está correto, copie e cole no arquivo `index.js`.
+
+Quando terminar, copie e cole o link do seu repositório (basta copiar a URL atual do seu navegador) na unidade deste exercício no Student Portal (my.ironhack).
